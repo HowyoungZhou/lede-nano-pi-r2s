@@ -1,4 +1,6 @@
-# Custom OpenWRT firmware for NanoPi R2S
+# Custom OpenWRT firmware for NanoPi R4S
+
+![OpenWrt-CI](https://github.com/HowyoungZhou/openwrt-nano-pi-r2s/workflows/OpenWrt-CI/badge.svg)
 
 ## LuCI
 - luci-theme-material
@@ -25,10 +27,14 @@
 - xl2tpd
 
 ## Utils
+- docker-ce
+- nano
 - curl
 - git
 - tcpdump
 - ping
 - ping6
 - traceroute6
+- netcat
+- iperf3
 - netcat
