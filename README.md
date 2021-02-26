@@ -37,4 +37,3 @@
 - traceroute6
 - netcat
 - iperf3
-- netcat
